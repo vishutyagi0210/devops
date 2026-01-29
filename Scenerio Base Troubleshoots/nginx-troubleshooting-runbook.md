@@ -1,7 +1,5 @@
 # Nginx Troubleshooting Runbook – Performance Degradation
 
-**Author:** Day 05 – Linux Troubleshooting Drill
-
 ---
 
 ## 📋 Overview
@@ -200,14 +198,6 @@ This runbook helps in:
 - [Official Nginx Documentation](https://nginx.org/en/docs/)
 - [Nginx Performance Tuning Guide](https://nginx.org/en/docs/http/ngx_http_core_module.html)
 - [Debugging Nginx](https://nginx.org/en/docs/debugging_log.html)
-
----
-
-## 🔄 Runbook Maintenance
-
-**Last Updated:** January 2026  
-**Review Frequency:** Quarterly  
-**Feedback:** Submit issues or improvements to the operations team
 
 ---
 
